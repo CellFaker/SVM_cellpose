@@ -1,0 +1,2 @@
+# SVM_cellpose
+cellposeでセグメンテーション後にsvm判定
